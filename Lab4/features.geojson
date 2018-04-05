@@ -1,0 +1,159 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "2425 E Florence Blvd, Casa Grande, AZ"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.757561,
+          32.879381
+        ],
+        "type": "Point"
+      },
+      "id": "1dd53f42bd9e14c12a5b84cede7e0b91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "8801 Old Seward Hwy, Anchorage, AK"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.894852,
+          61.216312
+        ],
+        "type": "Point"
+      },
+      "id": "3b28f793befa294533ed7a87eba94777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "3900 Grants Mill Rd, Irondale, AL"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.70721,
+          33.53816
+        ],
+        "type": "Point"
+      },
+      "id": "4ad0e70116dda324f1fb6388c2a39903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "15255 N Northsight Blvd, Scottsdale, AZ"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.899236,
+          33.509121
+        ],
+        "type": "Point"
+      },
+      "id": "5f88c2659643bf01d3fbdfb9f7e8af98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "1074 N Muldoon Rd, Anchorage, AK"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.894852,
+          61.216312
+        ],
+        "type": "Point"
+      },
+      "id": "c186d246da176258e9d2abc85f1fb500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "3360 El Camino Ave, Sacramento, CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.494399,
+          38.581571
+        ],
+        "type": "Point"
+      },
+      "id": "c5394a193eaa56049153569dc57d80b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "1375 S Arizona Ave, Chandler, AZ"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.840848,
+          33.306713
+        ],
+        "type": "Point"
+      },
+      "id": "d29c56eab7bfa873888f3dd0db375f04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "17835 Gale Ave, City of Industry, CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.009033,
+          34.060456
+        ],
+        "type": "Point"
+      },
+      "id": "d69be1986c7309f403e777518c879ea8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "5757 E State Route 69, Prescott Valley, AZ"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.280213,
+          34.648897
+        ],
+        "type": "Point"
+      },
+      "id": "dead594b6e8c8da90c2ac100f2bf6a46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "48 College Rd, Fairbanks, AK"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.716675,
+          64.837845
+        ],
+        "type": "Point"
+      },
+      "id": "e8389ff2e9959a3fded5728be092860b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "12540 Beach Blvd, Stanton, CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.793564,
+          37.569107
+        ],
+        "type": "Point"
+      },
+      "id": "f4852cafc6839491d443963655302f6f"
+    }
+  ],
+  "type": "FeatureCollection"
+}
